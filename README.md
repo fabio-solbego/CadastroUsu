@@ -1,12 +1,12 @@
-# Cadastro
+## Cadastro
 
 
 - Aplicação de cadastro de tarefas e login.
 - API com previsão do tempo
-  # Linguagens usadas
+  ## Linguagens usadas
  - Javascript-Frontend
  - Php- Beckend
-# Banco
+## Banco
  - Banco de dados está na pasta
  - BdDados
    
